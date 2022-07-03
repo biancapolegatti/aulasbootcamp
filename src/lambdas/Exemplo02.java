@@ -7,6 +7,7 @@ public class Exemplo02 {
     }
 
 
+
     //o metodo imprimir recebe uma string e a interface
     public static void imprimir(String texto, InterfaceString inter) {
         String resultado = inter.executar(texto);
